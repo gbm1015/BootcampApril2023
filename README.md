@@ -10,9 +10,9 @@ In this homework assignment, I used VBA scripting to analyze generated stock mar
 
 2. Inside the new repository that I created, I
 
-	- added the Excel Spreadsheet "Multiple_year_stock_data.xlsx", that included the stock data to be used for analysis.
+	- attempted to add the Excel Spreadsheet "Multiple_year_stock_data.xlsx", that included the stock data to be used for analysis; however, it was too large to upload to GitHub.  I will try to create a zipped file and upload it directly to https://bootcampspot-v2.com/
 
-	- added the Macro Enable Excel Spreadsheet and VBA Macro "Multiple_year_stock_data_solution.xlsm", that I used for this assignment's solution.
+	- attempted to add the Macro Enable Excel Spreadsheet and VBA Macro "Multiple_year_stock_data_solution.xlsm", that I used for this assignment's solution  However, it was too large to upload to GitHub.  I will try to create a zipped file and upload it directly to https://bootcampspot-v2.com/
 
 	- uploaded the screenshots of the solution worksheets, for each of the years 2018, 2019, and 2020.  
 
