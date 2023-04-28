@@ -2,7 +2,7 @@
 
 ## Background
 
-In this homework assignment, I used VBA scripting to analyze generated stock market data. 
+In this homework assignment, I used VBA scripting to analyze generated stock market data for 2018, 2019, and 2020. 
 
 ### Before opening the homework spreadsheet and coding in VBA
 
@@ -10,13 +10,13 @@ In this homework assignment, I used VBA scripting to analyze generated stock mar
 
 2. Inside the new repository that I created, I
 
-	- attempted to add the Excel Spreadsheet "Multiple_year_stock_data.xlsx", that included the stock data to be used for analysis; however, it was too large to upload to GitHub.  I will try to create a zipped file and upload it directly to https://bootcampspot-v2.com/
+	- attempted to add the Excel Spreadsheet "Multiple_year_stock_data.xlsx", that included the stock data to be used for analysis; however, it was too large to upload to GitHub.  That spreadsheet can be downloaded at Module 2 Challenge link https://courses.bootcampspot.com/courses/3527/assignments/54069?module_item_id=961284
 
-	- attempted to add the Macro Enable Excel Spreadsheet and VBA Macro "Multiple_year_stock_data_solution.xlsm", that I used for this assignment's solution  However, it was too large to upload to GitHub.  I will try to create a zipped file and upload it directly to https://bootcampspot-v2.com/
+	- attempted to add the Macro Enabled Excel Spreadsheet and VBA Macro "Multiple_year_stock_data_solution.xlsm", that resulted from running the VBA macro script for analysis.  However, it was too large to upload to GitHub.  
 
-	- uploaded the screenshots of the solution worksheets, for each of the years 2018, 2019, and 2020.  
+	- uploaded the screenshots of the solution worksheets, for each of the years 2018, 2019, and 2020.  These 3 screenshots are the solution tabs from the Macro Enabled Excel Spreadsheet titled "Multiple_year_stock_data_solution.xlsm". (Please refer to line 15 above).
 
-	- uploaded the main VBA script to run the analysis in 3 different extension files; .bas, .txt, and .vba
+	- uploaded the main VBA script to run the analysis in 3 different extension files; .bas, .txt, and .vba.  Please copy the VBA script code from the Multiple_year_stock_data_solution.txt file and and paste it to run in visual basic using the excel spreadsheet "Multiple_year_stock_data.xlsx" that can be downloaded at Module 2 Challenge.  (Please refer to line 13 above).
 
 
 ### Files including data used for analysis and the solution output
