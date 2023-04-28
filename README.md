@@ -14,27 +14,28 @@ In this homework assignment, I used VBA scripting to analyze generated stock mar
 
 1. Attempted to add the Macro Enabled Excel Spreadsheet and VBA Macro file, "Multiple_year_stock_data_solution.xlsm", that resulted from running the VBA macro script for analysis.  However, it was too large to upload to GitHub.  
 
-2. Uploaded the screenshots of the solution worksheets, for each of the years 2018, 2019, and 2020.  These 3 screenshots are the solution tabs from the Macro Enabled Excel Spreadsheet titled "Multiple_year_stock_data_solution.xlsm". (Please refer to line 15 above).
+2. Uploaded the screenshots of the solution worksheets, for each of the years 2018, 2019, and 2020.  These 3 screenshots are the solution tabs from the Macro Enabled Excel Spreadsheet titled "Multiple_year_stock_data_solution.xlsm". (Please refer to bullet 1 above).
 
-3. Uploaded the main VBA script to run the analysis in 2 different extension files; .bas (extension version when exporting macro from "Multiple_year_stock_data_solution.xlsm") and .txt.  Please copy the VBA script code from the Multiple_year_stock_data_solution.txt file and paste it to run  using data at the excel spreadsheet "Multiple_year_stock_data.xlsx" that can be downloaded at Module 2 Challenge.  (Please refer to line 11 above).
+3. Uploaded the main VBA script to run the analysis in 2 different extension files; .bas (extension version when exporting macro from "Multiple_year_stock_data_solution.xlsm") and .txt.  Please copy the VBA script code from the Multiple_year_stock_data_solution.txt file and paste it to run  using data at the excel spreadsheet "Multiple_year_stock_data.xlsx" that can be downloaded at Module 2 Challenge.  
 
 ### Files including data used for analysis and the solution output
 
-* [Stock Data](Multiple_year_stock_data_solution.xlsm) - Ran VBA scripts on this data to generate the final solution output.  
+* Multiple_year_stock_data.xlsx - Ran VBA scripts on this data to generate the final solution output.  
+* Multiple_year_stock_data_solution.xlsm - The macro enabled spreadsheet that included the final solution output and VBA macro script.
 
-### VBA Scripting file versions; in .bas and .txt
+### VBA Scripting file versions; in .bas and .txt (please refer to bullet 3 above)
 
-Module1.bas
+* Module1.bas
 
-Multiple_year_stock_data_solution.txt (Please copy and paste this VBA script to run using "Multiple_year_stock_data.xlsx" data) 
+* Multiple_year_stock_data_solution.txt (Please copy and paste this VBA script to run using "Multiple_year_stock_data.xlsx" data) 
 
 ### Stock Market Analyses screenshots
 
-Screenshot Multiple_year_stock_data_solution 2018 worksheet.jpg
+* Screenshot Multiple_year_stock_data_solution 2018 worksheet.jpg
 
-Screenshot Multiple_year_stock_data_solution 2019 worksheet.jpg
+* Screenshot Multiple_year_stock_data_solution 2019 worksheet.jpg
 
-Screenshot Multiple_year_stock_data_solution 2020 worksheet.jpg
+* Screenshot Multiple_year_stock_data_solution 2020 worksheet.jpg
 
 ## Analysis Steps
 
