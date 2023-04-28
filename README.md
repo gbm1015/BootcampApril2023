@@ -8,28 +8,25 @@ In this homework assignment, I used VBA scripting to analyze generated stock mar
 
 1. I created a new repository in GitHub for this project called `VBA-challenge`. 
 
-2. Inside the new repository that I created, I
+2. Inside the new repository that I created, I attempted to add the Excel Spreadsheet "Multiple_year_stock_data.xlsx", that included the stock data to be used for analysis; however, it was too large to upload to GitHub.  That spreadsheet can be downloaded at Module 2 Challenge link https://courses.bootcampspot.com/courses/3527/assignments/54069?module_item_id=961284
 
-	- attempted to add the Excel Spreadsheet "Multiple_year_stock_data.xlsx", that included the stock data to be used for analysis; however, it was too large to upload to GitHub.  That spreadsheet can be downloaded at Module 2 Challenge link https://courses.bootcampspot.com/courses/3527/assignments/54069?module_item_id=961284
+### After developing and running the VBA macro to analyze the generated stock market data for 2018, 2019, and 2020
 
-	- attempted to add the Macro Enabled Excel Spreadsheet and VBA Macro "Multiple_year_stock_data_solution.xlsm", that resulted from running the VBA macro script for analysis.  However, it was too large to upload to GitHub.  
+1. Attempted to add the Macro Enabled Excel Spreadsheet and VBA Macro file, "Multiple_year_stock_data_solution.xlsm", that resulted from running the VBA macro script for analysis.  However, it was too large to upload to GitHub.  
 
-	- uploaded the screenshots of the solution worksheets, for each of the years 2018, 2019, and 2020.  These 3 screenshots are the solution tabs from the Macro Enabled Excel Spreadsheet titled "Multiple_year_stock_data_solution.xlsm". (Please refer to line 15 above).
+2. Uploaded the screenshots of the solution worksheets, for each of the years 2018, 2019, and 2020.  These 3 screenshots are the solution tabs from the Macro Enabled Excel Spreadsheet titled "Multiple_year_stock_data_solution.xlsm". (Please refer to line 15 above).
 
-	- uploaded the main VBA script to run the analysis in 3 different extension files; .bas, .txt, and .vba.  Please copy the VBA script code from the Multiple_year_stock_data_solution.txt file and and paste it to run in visual basic using the excel spreadsheet "Multiple_year_stock_data.xlsx" that can be downloaded at Module 2 Challenge.  (Please refer to line 13 above).
-
+3. Uploaded the main VBA script to run the analysis in 2 different extension files; .bas (extension version when exporting macro from "Multiple_year_stock_data_solution.xlsm") and .txt.  Please copy the VBA script code from the Multiple_year_stock_data_solution.txt file and paste it to run  using data at the excel spreadsheet "Multiple_year_stock_data.xlsx" that can be downloaded at Module 2 Challenge.  (Please refer to line 11 above).
 
 ### Files including data used for analysis and the solution output
 
-* [Stock Data](Multiple_year_stock_data_solution.xlsm) - Ran scripts on this data to generate the final solution output.  
+* [Stock Data](Multiple_year_stock_data_solution.xlsm) - Ran VBA scripts on this data to generate the final solution output.  
 
-### VBA Scripting file versions; in .bas, .txt, .vba
+### VBA Scripting file versions; in .bas and .txt
 
 Module1.bas
 
-Multiple_year_stock_data_solution.txt
-
-Module1.vba
+Multiple_year_stock_data_solution.txt (Please copy and paste this VBA script to run using "Multiple_year_stock_data.xlsx" data) 
 
 ### Stock Market Analyses screenshots
 
@@ -41,17 +38,17 @@ Screenshot Multiple_year_stock_data_solution 2020 worksheet.jpg
 
 ## Analysis Steps
 
-Created a script that loops through all the stocks for one year and generated output for the following information:
-  * The ticker symbol.
-  * Yearly change from opening price at the beginning of a given year to the closing price at the end of that year.
-  * The percent change from opening price at the beginning of a given year to the closing price at the end of that year.
-  * The total stock volume of the stock.
+1. Created a script that loops through all the stocks for one year and generated output for the following information:
+  	* The ticker symbol.
+  	* Yearly change from opening price at the beginning of a given year to the closing price at the end of that year.
+  	* The percent change from opening price at the beginning of a given year to the closing price at the end of that year.
+	* The total stock volume of the stock.
 
-Used conditional formatting that highlighted positive yearly change in green and negative yearly change in red.
+2. Used conditional formatting that highlighted positive yearly change in green and negative yearly change in red.
 
-Added functionality to the script to return the stock ticker with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume". 
+3. Added functionality to the script to return the stock ticker with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume". 
 
-Made the appropriate adjustments to the VBA script to allow it to run on every worksheet (that is, every year) just by running the VBA script once.
+4. Made the appropriate adjustments to the VBA script to allow it to run on every worksheet (that is, every year) just by running the VBA script once.
 
 ## References
 
