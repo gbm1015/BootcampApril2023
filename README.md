@@ -27,7 +27,7 @@ In this homework assignment, I used VBA scripting to analyze generated stock mar
 
 * Module1.bas
 
-* Multiple_year_stock_data_solution.txt (Please copy and paste this VBA script to run using "Multiple_year_stock_data.xlsx" data) 
+* Multiple_year_stock_data_solution.txt (Please copy and paste this VBA script, lines 2 to 142, to run using "Multiple_year_stock_data.xlsx" data) 
 
 ### Stock Market Analyses screenshots
 
